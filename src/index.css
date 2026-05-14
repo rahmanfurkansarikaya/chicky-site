@@ -226,6 +226,25 @@ section p {
   margin-bottom: 20px;
 }
 
+/* SEO TANITIM */
+
+.seo-section {
+  min-height: auto;
+  background-color: var(--color-white);
+  border-top: 1px solid rgba(30, 30, 30, 0.08);
+  border-bottom: 1px solid rgba(30, 30, 30, 0.08);
+}
+
+.seo-section h2 {
+  max-width: 900px;
+  color: var(--color-black);
+}
+
+.seo-section p {
+  max-width: 980px;
+  color: var(--color-muted);
+}
+
 /* MENÜLER */
 
 .menu-section {

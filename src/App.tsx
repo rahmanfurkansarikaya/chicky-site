@@ -58,6 +58,31 @@ function App() {
           </div>
         </section>
 
+        <section className="seo-section">
+  <span className="section-badge">Çay’da Chicky Lezzeti</span>
+
+  <h2>Çay/Afyonkarahisar Tavuk Döner ve Dürüm Lezzetleri</h2>
+
+  <p>
+    Chicky, Çay/Afyonkarahisar’da sıcak servis edilen tavuk döner, soslu dürüm,
+    burger menü, ekmek arası lezzetler ve paket servis seçenekleriyle hizmet
+    verir. Bol malzemeli dürümlerimiz, özel soslarımız ve doyurucu menülerimizle
+    hızlı, lezzetli ve pratik bir yemek deneyimi sunuyoruz.
+  </p>
+
+  <p>
+    Chicky menüsünde Chicky Dürüm, Chicky Mexicano, Chicky Barbekü, Chicky
+    Garlic, Chicky Cheese, tavuk burger, et burger, ekmek arası tavuk döner,
+    patates, soğan halkası, nugget ve içecek seçenekleri bulunur.
+  </p>
+
+  <p>
+    Çay’da tavuk döner, dürüm, burger veya paket servis arayanlar için Chicky;
+    lezzetli menüleri, kolay ulaşılabilir konumu ve hızlı iletişim seçenekleriyle
+    müşterilerini bekliyor.
+  </p>
+</section>
+
        <section id="menuler" className="menu-section">
   <span className="section-badge">Lezzet Seçimi</span>
 
